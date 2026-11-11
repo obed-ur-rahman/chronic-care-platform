@@ -1,0 +1,4 @@
+data/raw/
+*.jar
+__pycache__/
+.venv/
